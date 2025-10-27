@@ -1,5 +1,5 @@
 import express from "express";
-import apiRoutes from "./routes/apiRoutes.js";
+import notesRoutes from "./routes/notesRoutes.js";
 import { connectDB } from "./config/db.js";
 import dotenv from "dotenv";
 
@@ -10,6 +10,11 @@ const port = process.env.PORT || 3000;
 
 connectDB();
 
-app.use("/api", apiRoutes);
+// MiddleWare
+app.use(express.json());
 
-app.listen(port);
+app.use("/api/notes", notesRoutes);
+
+app.listen(port, () => {
+  console.log("Server is started on Port: http://localhost:" + port);
+});

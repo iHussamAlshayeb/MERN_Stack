@@ -3,14 +3,14 @@ import mongoose from "mongoose";
 
 const userSchema = new mongoose.Schema(
   {
-    name: { type: String, required: true },
-    email: { type: String, required: true },
+    title: { type: String, required: true },
+    content: { type: String, required: true },
   },
   { timestamps: true } // Created_At & Updated_At
 );
 
 // 2- model
 
-const User = mongoose.model("User", userSchema);
+const Note = mongoose.model("Note", userSchema);
 
-export default User;
+export default Note;
