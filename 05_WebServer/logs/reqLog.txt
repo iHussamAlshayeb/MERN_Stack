@@ -1,0 +1,9 @@
+2026-Feb-09	03:13:26	2e9993b8-0284-4077-8b31-7de67f5c14c0	/new-page.html	GET
+2026-Feb-09	03:13:26	0321d1f3-40be-42e7-85aa-89039f6988f4	/css/style.css	GET
+2026-Feb-09	03:13:26	9794dcab-025f-4951-aad0-a14dc9d57c2b	/img/img1.jpg	GET
+2026-Feb-09	03:14:14	d2e1633f-ce71-4abb-b43c-b28d988355b4	/new-page.html	GET
+2026-Feb-09	03:14:20	718b2522-0f59-40f9-b755-8399aba10058	/new-page.html	GET
+2026-Feb-09	03:14:20	fdf42290-a457-4f32-aff9-2a12d1a1a489	/css/style.css	GET
+2026-Feb-09	03:14:20	7d3a8577-975a-46af-af91-7ee62388d8e7	/img/img1.jpg	GET
+2026-Feb-09	03:15:13	06c4bae0-9415-4cd0-970c-4839c0a973e3	/	GET
+2026-Feb-09	03:15:13	2792693e-b71e-4fb3-b663-070119650897	/css/style.css	GET
