@@ -123,3 +123,10 @@
 2026-Feb-10	02:02:33	95550d99-07fc-4f22-a05f-6a5d4030bad7	GET	undefined	/employees/1
 2026-Feb-10	02:02:46	3f69b47e-c208-4ea4-8bf2-2816c68fcedd	GET	undefined	/employees/1
 2026-Feb-10	02:02:54	9345cf5e-aed9-4039-b1f1-cdddd1934e73	GET	undefined	/employees/1
+2026-Feb-10	02:42:28	8fd87bd6-d5ae-455f-9a78-a2791c278c78	POST	undefined	/register
+2026-Feb-10	02:43:05	6c6bef28-8629-469f-8f04-e4ca8756cf67	POST	undefined	/register
+2026-Feb-10	02:43:10	40892650-4649-4a1f-858f-513d90fb552c	POST	undefined	/register
+2026-Feb-10	02:49:53	1a9546ef-454c-412b-86cf-839dac0c6c7a	POST	undefined	/auth
+2026-Feb-10	02:49:57	02317133-7b94-43dd-bed6-23964b2ad36e	POST	undefined	/auth
+2026-Feb-10	02:50:22	b10e2e46-0a8c-4a3c-82eb-e166109d86da	POST	undefined	/auth
+2026-Feb-10	02:50:29	e26124dc-f222-45c9-bbcb-8ae577659e5f	POST	undefined	/auth
