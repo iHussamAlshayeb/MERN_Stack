@@ -1,0 +1,10 @@
+2026-Feb-09	08:40:48	74ba2c18-f382-422f-82eb-3818141a8644	Error: Not allowed by CORS
+2026-Feb-10	10:55:10	599dced5-89b7-4b9b-a59e-ab5ff73fd5e7	Error: ENOENT: no such file or directory, stat 'C:\Users\iHussam\Documents\GitHub\MERN_Stack\08_Routing\routes\views\index.html'
+2026-Feb-10	11:15:30	bb86d467-e43e-4293-ad0c-ae7ea277e179	TypeError: Cannot read properties of undefined (reading 'firtsname')
+2026-Feb-10	11:16:02	96a11bd8-1bd9-4ff2-9aa7-4bf23ef1591d	TypeError: Cannot read properties of undefined (reading 'firtsname')
+2026-Feb-10	11:16:08	5c6be45d-3696-45ce-b75b-1fcde8ad5647	TypeError: Cannot read properties of undefined (reading 'firtsname')
+2026-Feb-10	11:16:27	bd3efdff-ff99-4d12-bd39-176b04bce1e0	SyntaxError: Expected ':' after property name in JSON at position 10 (line 3 column 1)
+2026-Feb-10	11:16:39	b1743b5f-5c77-4528-a865-e969a6f10b62	SyntaxError: Expected ':' after property name in JSON at position 10 (line 3 column 1)
+2026-Feb-10	02:02:33	a9f9060d-35d4-47d8-a535-df7dec53b940	TypeError: Cannot read properties of undefined (reading 'id')
+2026-Feb-10	02:02:46	321d4c54-0296-4764-a73e-642445ffcfa3	TypeError: Cannot read properties of undefined (reading 'id')
+2026-Feb-10	02:02:54	ee37d6db-0e1d-4b32-b80c-4a383a4c2e30	TypeError: Cannot read properties of undefined (reading 'id')
