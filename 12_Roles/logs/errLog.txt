@@ -11,3 +11,5 @@
 2026-Feb-16	11:06:39	6dcbbce9-5655-4cde-a58a-f4d1433ae357	Error: secretOrPrivateKey must have a value
 2026-Feb-16	11:07:01	2e9e8b12-0ad9-4df2-b1d5-b2cb6baae5ab	Error: secretOrPrivateKey must have a value
 2026-Feb-16	11:07:31	2155cbb2-84a1-42a7-ae8e-68087d100ad1	Error: secretOrPrivateKey must have a value
+2026-Feb-16	04:23:16	98a50807-d5a5-4919-af38-a6974dcb054f	TypeError: Cannot read properties of undefined (reading 'firstname')
+2026-Feb-16	04:24:23	f5ca8b6a-730b-4b4a-bf02-f90d9f8c1c76	TypeError: Cannot read properties of undefined (reading 'id')
