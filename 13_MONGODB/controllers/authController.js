@@ -37,7 +37,7 @@ const handleLogin = async (req, res) => {
     );
 
     // Saving RefreshToken with current user
-    foundUser.refreshToken = "";
+    foundUser.refreshToken = refreshToken;
     const result = await foundUser.save();
 
     console.log(result);
